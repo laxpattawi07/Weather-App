@@ -1,10 +1,12 @@
 # Weather-App
- HTML | CSS | JavaScript
-• Developed a weather application using HTML,
+
+HTML | CSS | JavaScript
+
+Developed a weather application using HTML,
 CSS, and JavaScript to provide real-time
 weather information to users.
-• Integrated the Open Weather API to fetch
+Integrated the Open Weather API to fetch
 weather data and display it in an intuitive and
 user-friendly format.
-• Incorporated features such as Location-based
+Incorporated features such as Location-based
 weather data and customizable temperature units to enhance user experience.
